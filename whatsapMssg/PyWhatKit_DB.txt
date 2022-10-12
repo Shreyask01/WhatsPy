@@ -1,0 +1,10 @@
+Date: 12/10/2022
+Time: 14:53
+Phone Number: +918286891636
+Message: Hi! how are you!! This message is sent through python script..Love you
+--------------------
+Date: 12/10/2022
+Time: 15:3
+Phone Number: +918286891636
+Message: Hi! how are you!! This message is sent through python script..Love you
+--------------------
